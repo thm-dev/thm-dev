@@ -16,3 +16,5 @@
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thm-dev)](https://github.com/thm-dev) -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thm-dev&exclude_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/thm-dev)
+
+![thm-dev's GitHub stats](https://github-readme-stats.vercel.app/api?username=thm-dev&show_icons=true&theme=transparent)
