@@ -12,5 +12,7 @@
 [![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)]
 [![GIMP](https://img.shields.io/badge/gimp-5C5543?style=for-the-badge&logo=gimp&logoColor=white)]
 [![FreeCodeCamp](https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white)]
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thm-dev)](https://github.com/thm-dev)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thm-dev&exclude_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/thm-dev)
